@@ -1,0 +1,29 @@
+
+.nonveg-page {
+  padding: 60px 8%;
+  min-height: 80vh;
+}
+
+.nonveg-page .menu-heading > p:first-child {
+  color: #ff7043;
+}
+
+.nonveg-page .menu-heading h1 span {
+  color: #ff7043;
+}
+
+.nonveg-page .food-card:hover {
+  border-color: #ff7043;
+}
+
+.nonveg-page .food-bottom h3 {
+  color: #ff7043;
+}
+
+.nonveg-page .food-bottom button {
+  background: #ff7043;
+}
+
+.nonveg-page .food-bottom button:hover {
+  background: white;
+}
